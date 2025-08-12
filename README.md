@@ -1,5 +1,5 @@
 # Terms of Use
-
+ 
 **Last updated:**  12.08.2025
 
 ## 1. Acceptance of Terms
