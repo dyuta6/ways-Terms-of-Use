@@ -1,44 +1,42 @@
-<!DOCTYPE html> 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms of Use - MindWays</title>
-</head>
-<body>
-    <h1>Terms of Use</h1>
-    <p><strong>Last updated:</strong> [Tarih]</p>
+# Terms of Use
 
-    <h2>1. Acceptance of Terms</h2>
-    <p>By downloading, installing, or using the MindWays mobile application ("App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.</p>
+**Last updated:**  12.08.2025
 
-    <h2>2. Description of Service</h2>
-    <p>MindWays is a visual node planning application that allows users to create and manage mind maps and visual diagrams.</p>
+## 1. Acceptance of Terms
 
-    <h2>3. Subscription Services</h2>
-    <p>MindWays offers a Premium subscription service that provides:</p>
-    <ul>
-        <li>Unlimited project saving</li>
-        <li>Advanced editing tools</li>
-        <li>Cloud synchronization</li>
-    </ul>
+By downloading, installing, or using the MindWays mobile application ("App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
 
-    <h2>4. Subscription Terms</h2>
-    <p>Premium subscriptions are billed monthly at $0.99 USD. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can cancel your subscription through your device's App Store settings.</p>
+## 2. Description of Service
 
-    <h2>5. User Content</h2>
-    <p>You retain ownership of any content you create using the App. You are responsible for the content you create and share.</p>
+MindWays is a visual node planning application that allows users to create and manage mind maps and visual diagrams.
 
-    <h2>6. Privacy</h2>
-    <p>Your privacy is important to us. Please review our Privacy Policy, which also governs your use of the App.</p>
+## 3. Subscription Services
 
-    <h2>7. Limitation of Liability</h2>
-    <p>To the maximum extent permitted by law, the App and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages.</p>
+MindWays offers a Premium subscription service that provides:
+- Unlimited project saving
+- Advanced editing tools
+- Cloud synchronization
 
-    <h2>8. Changes to Terms</h2>
-    <p>We may update these Terms from time to time. We will notify you of any changes by posting the new Terms on this page.</p>
+## 4. Subscription Terms
 
-    <h2>9. Contact Information</h2>
-    <p>If you have any questions about these Terms, please contact us at: [Email adresiniz]</p>
-</body>
-</html>
+Premium subscriptions are billed monthly at $0.99 USD. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can cancel your subscription through your device's App Store settings.
+
+## 5. User Content
+
+You retain ownership of any content you create using the App. You are responsible for the content you create and share.
+
+## 6. Privacy
+
+Your privacy is important to us. Please review our Privacy Policy, which also governs your use of the App.
+
+## 7. Limitation of Liability
+
+To the maximum extent permitted by law, the App and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages.
+
+## 8. Changes to Terms
+
+We may update these Terms from time to time. We will notify you of any changes by posting the new Terms on this page.
+
+## 9. Contact Information
+
+If you have any questions about these Terms, please contact us at: dyuta6@gmail.com
